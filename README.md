@@ -16,34 +16,7 @@ This is a **Retrieval-Augmented Generation (RAG)** chatbot powered by **LangChai
 
 ## 🚀 Quick Start (Local)
 
-### Clone the repo
+###  Clone the repo
 ```bash
 git clone https://github.com/<your-username>/rag-chatbot.git
 cd rag-chatbot
-
----
-
-🧠 **Folder Structure**
-Upload any file (PDF, DOCX, TXT)
-
-The app processes the file and splits it into chunks
-
-Converts chunks into embeddings using HuggingFace
-
-Stores them in a FAISS vectorstore
-
-When you ask a question:
-
-Retrieves the most relevant chunks
-
-Uses an LLM to answer based on your document context
-
----
-
-🙌 **Credits**
-
-1.LangChain
-2.FAISS
-3.Streamlit
-4.HuggingFace
-
