@@ -20,3 +20,9 @@ This is a **Retrieval-Augmented Generation (RAG)** chatbot powered by **LangChai
 ```bash
 git clone https://github.com/<your-username>/rag-chatbot.git
 cd rag-chatbot
+```
+---
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://rag-chatbot-szkp95xn9gbcfkpyepq4fh.streamlit.app/)
+
