@@ -26,3 +26,10 @@ cd rag-chatbot
 
 👉 [Click here to try the app](https://rag-chatbot-szkp95xn9gbcfkpyepq4fh.streamlit.app/)
 
+---
+## 🙋‍♀️ Author
+
+**Pachigolla Sai Krishna Naga Sahithi**  
+Frontend Developer | API Explorer | Building Projects to Learn  
+📧 sahithipachigolla.work@gmail.com  
+🌐 [GitHub](https://github.com/sahipachigolla)
